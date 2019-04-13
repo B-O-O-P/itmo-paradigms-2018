@@ -93,13 +93,13 @@
 Модификации
  * *Базовая*
     * Класс `ExpressionParser` должен реализовывать интерфейс
-        [Parser](Homework 7/expression/exceptions/Parser.java)
+        [Parser](Homework%207/expression/exceptions/Parser.java)
     * Классы `CheckedAdd`, `CheckedSubtract`, `CheckedMultiply`,
         `CheckedDivide` и `CheckedNegate` должны реализовывать интерфейс
-        [TripleExpression](Homework 7/expression/TripleExpression.java)
+        [TripleExpression](Homework%207/expression/TripleExpression.java)
     * Нельзя использовать типы `long` и `double`
     * Нельзя использовать методы классов `Math` и `StrictMath`
-    * [Исходный код тестов](Homework 7/expression/exceptions/ExceptionsTest.java)
+    * [Исходный код тестов](Homework%207/expression/exceptions/ExceptionsTest.java)
  * *Простая*
     * Дополнительно реализовать унарные операции:
         * `log10` — логарифм по уснованию 10, `log10 1000` равно 3;
@@ -116,9 +116,9 @@
 Модификации
  * *Базовая*
     * Класс `ExpressionParser` должен реализовывать интерфейс
-        [Parser](Homework 5-6/expression/parser/Parser.java)
+        [Parser](Homework%205-6/expression/parser/Parser.java)
     * Результат разбора должен реализовывать интерфейс
-        [TripleExpression](Homework 5-6/expression/TripleExpression.java)
+        [TripleExpression](Homework%205-6/expression/TripleExpression.java)
  * *Простая*
     * Дополнительно реализовать бинарные операции:
         * `&` — побитное И, приоритет меньше чем у `+` (`6 & 1 + 2` равно `6 & (1 + 2)` равно 2);
@@ -135,11 +135,11 @@
 
 Модификации
  * *Базовая*
-    * Реализовать интерфейс [Expression](Homework 5-6/expression/Expression.java)
+    * Реализовать интерфейс [Expression](Homework%205-6/expression/Expression.java)
  * *Простая*
-    * Реализовать интерфейс [DoubleExpression](Homework 5-6/expression/DoubleExpression.java)
+    * Реализовать интерфейс [DoubleExpression](Homework%205-6/expression/DoubleExpression.java)
  * *Сложная*
-    * Реализовать интерфейсы [DoubleExpression](Homework 5-6/expression/DoubleExpression.java) и [TripleExpression](Homework 5-6/expression/TripleExpression.java)
+    * Реализовать интерфейсы [DoubleExpression](Homework%205-6/expression/DoubleExpression.java) и [TripleExpression](Homework 5-6/expression/TripleExpression.java)
 
 
 ## Домашнее задание 4. Очередь на связном списке
