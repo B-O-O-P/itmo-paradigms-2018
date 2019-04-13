@@ -99,7 +99,6 @@
         [TripleExpression](Homework%207/expression/TripleExpression.java)
     * Нельзя использовать типы `long` и `double`
     * Нельзя использовать методы классов `Math` и `StrictMath`
-    * [Исходный код тестов](Homework%207/expression/exceptions/ExceptionsTest.java)
  * *Простая*
     * Дополнительно реализовать унарные операции:
         * `log10` — логарифм по уснованию 10, `log10 1000` равно 3;
@@ -137,9 +136,9 @@
  * *Базовая*
     * Реализовать интерфейс [Expression](Homework%205-6/expression/Expression.java)
  * *Простая*
-    * Реализовать интерфейс [DoubleExpression](Homework%205-6/expression/DoubleExpression.java)
+    * Реализовать интерфейс [DoubleExpression](Homework%205-6/expression/TripleExpression.java)
  * *Сложная*
-    * Реализовать интерфейсы [DoubleExpression](Homework%205-6/expression/DoubleExpression.java) и [TripleExpression](Homework%205-6/expression/TripleExpression.java)
+    * Реализовать интерфейсы [DoubleExpression](Homework%205-6/expression/TripleExpression.java) и [TripleExpression](Homework%205-6/expression/TripleExpression.java)
 
 
 ## Домашнее задание 4. Очередь на связном списке
