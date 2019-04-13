@@ -139,7 +139,7 @@
  * *Простая*
     * Реализовать интерфейс [DoubleExpression](Homework%205-6/expression/DoubleExpression.java)
  * *Сложная*
-    * Реализовать интерфейсы [DoubleExpression](Homework%205-6/expression/DoubleExpression.java) и [TripleExpression](Homework 5-6/expression/TripleExpression.java)
+    * Реализовать интерфейсы [DoubleExpression](Homework%205-6/expression/DoubleExpression.java) и [TripleExpression](Homework%205-6/expression/TripleExpression.java)
 
 
 ## Домашнее задание 4. Очередь на связном списке
